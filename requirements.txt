@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Geocoding
+yat-geo-db>=0.1.0
+
+# Mapping and visualization
+keplergl>=0.3.2
+geopandas>=0.13.0
+
+# Optional utilities
+python-dotenv>=1.0.0
